@@ -10,7 +10,7 @@ permalink: /
 ## Welcome!
 
 <center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/group.jpg" width="100%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/group_2304.jpg" width="100%">
 </center>
 <p></p>
 Welcome to our group's page! Feel free to take a look around. The site is still under construction; so check back for new content soon!
@@ -18,7 +18,7 @@ Welcome to our group's page! Feel free to take a look around. The site is still 
 ### ACME?!?
 ACME stands for **A**ccelerated **C**omputation of **M**aterials for **E**nergy. The word "acme" also refers to "the point at which someone or something is best, perfect, or most successful," (per the OED) reminding us of what we can strive for in our work every day.
 
-And finally, the ACME Corporation from Looney Tunes reminds us that while we set high standards for ourselves, we can't take ourselves too seriously all the time, and we always remember to find joy and laughter in work and life.
+And finally, the ACME Corporation from Looney Tunes reminds us that while we set high standards for our research, we can't take ourselves too seriously all the time, and we always remember to find joy and laughter in work and life.
 
 You can read more about our group's culture [here]({{ site.url }}{{ site.baseurl }}/values).
 
