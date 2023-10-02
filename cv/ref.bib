@@ -192,6 +192,7 @@
   abstract = {Electrochemical kinetics at electrode–electrolyte interfaces limit the performance of devices including fuel cells and batteries. While the importance of moving beyond Butler–Volmer kinetics and incorporating the effect of electronic density of states of the electrode has been recognized, a unified framework that incorporates these aspects directly into electrochemical performance models is still lacking. In this work, we explicitly account for the density functional theory-calculated density of states numerically in calculating electrochemical reaction rates for a variety of electrode–electrolyte interfaces. We first show the utility of this for two cases related to Li metal electrodeposition and stripping on a Li surface and a Cu surface (anode-free configuration). The deviation in reaction rates is minor for cases with flat densities of states such as Li, but is significant for Cu due to nondispersive d-bands creating large variation. Finally, we consider a semiconducting case of a solid-electrolyte interphase consisting of LiF and Li2CO3 and note the importance of the Fermi level at the interface pinned by the redox reaction occurring there. We identify the asymmetry in reaction rates as a function of discharge/charge naturally within this approach.},
   langid = {english}
 }
+
 @article{Mistry2021,
   title = {A Minimal Information Set to Enable Verifiable Theoretical Battery Research},
   author = {Mistry, Aashutosh and Verma, Ankit and Sripad, Shashank and Ciez, Rebecca and Sulzer, Valentin and Brosa Planella, Ferran and Timms, Robert and Zhang, Yumin and Kurchin, Rachel and Dechent, Philipp and Li, Weihan and Greenbank, Samuel and Ahmad, Zeeshan and Krishnamurthy, Dilip and Fenton, Alexis M. and Tenny, Kevin and Patel, Prehit and Juarez Robles, Daniel and Gasper, Paul and Colclasure, Andrew and Baskin, Artem and Scown, Corinne D. and Subramanian, Venkat R. and Khoo, Edwin and Allu, Srikanth and Howey, David and DeCaluwe, Steven and Roberts, Scott A. and Viswanathan, Venkatasubramanian},
@@ -204,4 +205,32 @@
   issn = {2380-8195, 2380-8195},
   doi = {10.1021/acsenergylett.1c01710},
   langid = {english}
+}
+
+@article{annevelink2022automat,
+  title={AutoMat: Automated materials discovery for electrochemical systems},
+  author={Annevelink, Emil and Kurchin, Rachel and Muckley, Eric and Kavalsky, Lance and Hegde, Vinay I and Sulzer, Valentin and Zhu, Shang and Pu, Jiankun and Farina, David and Johnson, Matthew and others},
+  journal={MRS Bulletin},
+  volume={47},
+  number={10},
+  pages={1036--1044},
+  year={2022},
+  publisher={Springer},
+  doi={doi.org/10.1557/s43577-022-00424-0},
+  abstract={Large-scale electrification is vital to addressing the climate crisis, but several scientific and technological challenges remain to fully electrify both the chemical industry and transportation. In both of these areas, new electrochemical materials will be critical, but their development currently relies heavily on human-time-intensive experimental trial and error and computationally expensive first-principles, mesoscale, and continuum simulations. We present an automated workflow, AutoMat, which accelerates these computational steps by introducing both automated input generation and management of simulations across scales from first principles to continuum device modeling. Furthermore, we show how to seamlessly integrate multi-fidelity predictions, such as machine learning surrogates or automated robotic experiments “in-the-loop.” The automated framework is implemented with design space search techniques to dramatically accelerate the overall materials discovery pipeline by implicitly learning design features that optimize device performance across several metrics. We discuss the benefits of AutoMat using examples in electrocatalysis and energy storage and highlight lessons learned.}
+}
+
+@article{Kurchin2023,
+  doi = {10.1021/acs.jpclett.3c01992},
+  url = {https://doi.org/10.1021/acs.jpclett.3c01992},
+  year = {2023},
+  month = aug,
+  publisher = {American Chemical Society ({ACS})},
+  volume = {14},
+  number = {35},
+  pages = {7802--7807},
+  author = {Rachel C. Kurchin and Dhairya Gandhi and Venkatasubramanian Viswanathan},
+  title = {Nonequilibrium Electrochemical Phase Maps: Beyond Butler{\textendash}Volmer Kinetics},
+  journal = {The Journal of Physical Chemistry Letters},
+  abstract = {Accurate models of electrochemical kinetics at electrode–electrolyte interfaces are crucial to understanding the high-rate behavior of energy storage devices. Phase transformation of electrodes is typically treated under equilibrium thermodynamic conditions, while realistic operation is at finite rates. Analyzing phase transformations under nonequilibrium conditions requires integrating nonlinear electrochemical kinetic models with thermodynamic models. This had only previously been demonstrated for Butler–Volmer kinetics, where it can be done analytically. In this work, we develop a software package capable of the efficient numerical inversion of rate relationships for general kinetic models. We demonstrate building nonequilibrium phase maps, including for models such as Marcus–Hush–Chidsey that require computation of an integral, and also discuss the impact of a variety of assumptions and model parameters, particularly on high-rate phase behavior. Even for a fixed set of parameters, the magnitude of the critical current can vary by more than a factor of 2 among kinetic models.}
 }
