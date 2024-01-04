@@ -1,3 +1,47 @@
+- name: Andrew Timmins
+  photo: andrew.jpg
+  info: PhD Materials Science and Engineering
+  email: atimmins@andrew.cmu.edu
+  linkedin: https://www.linkedin.com/in/atimmins
+  researchgate: 
+  website: 
+  twitter: 
+  cv:
+  scholar:
+
+- name: Jeremy "J." Drew
+  photo: J.Drew.jpg
+  info: PhD Materials Science and Engineering
+  email: jdrew@andrew.cmu.edu
+  linkedin: https://www.linkedin.com/in/jeremy-drew-a02010116
+  researchgate: 
+  website: 
+  twitter: 
+  cv:
+  scholar:
+  
+- name: Xiaoxiao "Lory" Wang
+  photo: LoryW.jpg
+  info: PhD Chemical Engineering
+  email: xiaoxia3@andrew.cmu.edu
+  linkedin: https://www.linkedin.com/in/xiaoxiao-wang-lory/
+  researchgate: 
+  website: 
+  twitter: 
+  cv:
+  scholar:
+
+- name: Po-Sen Tseng
+  photo: Posen.JPG
+  info: PhD Materials Science and Engineering
+  email: posent@andrew.cmu.edu
+  linkedin: 
+  researchgate: 
+  website: 
+  twitter: 
+  cv:
+  scholar:
+
 - name: Rochan Bajpai	
   photo: rochan.jpg
   info: MS Artificial Intelligence Engineering - Materials Science and Engineering
@@ -9,9 +53,31 @@
   cv:
   scholar:
 
+- name: Tzu-Hsuan (Sandy) Chen
+  photo: sandy.jpeg
+  info: MS Computational Materials Science and Engineering
+  email: tzuhsuac@andrew.cmu.edu	
+  linkedin: https://www.linkedin.com/in/tzuhsuan-chen
+  researchgate: 
+  website: 
+  twitter: 
+  cv:
+  scholar:
+
+- name: Hintsa Fisseha Hishe 
+  photo: Hintsa.jpg
+  info: MS Research Materials Science and Engineering
+  email: hhishe@andrew.cmu.edu	
+  linkedin: https://www.linkedin.com/in/ee-hintsa 
+  researchgate: 
+  website: 
+  twitter: 
+  cv:
+  scholar:
+
 - name: "This could be you!"
   photo: roadrunner.jpeg
-  info: See <a href="www">openings</a> for more info
+  info: See <a href="/vacancies.html">openings</a> for more info
   email: 
   linkedin: 
   researchgate: 
