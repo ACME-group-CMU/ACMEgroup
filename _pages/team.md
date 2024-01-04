@@ -111,3 +111,6 @@ permalink: /team/
 </div>
 {% endif %}
 </div>
+<div style="text-align: center;">
+  <a href="{{ site.url }}{{ site.baseurl }}/pets"><img src="{{ site.url }}{{ site.baseurl }}/images/cmu-scotty-scarf.png" width="100%" style="max-width:250px"/></a>
+</div>
