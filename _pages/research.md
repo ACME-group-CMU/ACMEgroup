@@ -55,6 +55,19 @@ iframe {
   display: inline;
   vertical-align: middle;
 }
+.light-bg {
+  margin-top:10px;
+  margin-bottom:10px;
+  padding:0px;
+  display:block;
+  overflow:hidden;
+  text-align:center;
+  display: table-cell;
+  background: #8c8f94;
+  border-radius: 20px;
+  height: auto;
+  <!-- border: 1px solid black; -->
+}
 </style>
 
   <!-- border: 5px solid red; -->
@@ -72,3 +85,18 @@ Check back for more details about active projects!
 </div>
 </div>
 </div>
+
+<div class="jumbotron">
+<div class="row align-items-end">
+<div class="col-md-9 col-sm-12">
+ <h3>Funding</h3>
+We are grateful for research support, past and present, from the following sources:
+
+<div class="light-bg">
+  <a href="https://firstsolar.com/"><img src="{{ site.url }}{{site.baseurl }}/images/funders/FSLR.png" width="100%" style="max-width:200px"/></a>  <a href="https://www.nsf.gov/"><img src="{{ site.url }}{{site.baseurl }}/images/funders/NSF.png" width="100%" style="max-width:200px"/></a>  <a href="https://www.netl.doe.gov/"><img src="{{ site.url }}{{site.baseurl }}/images/funders/NETL.png" width="100%" style="max-width:200px"/></a>  <a href="https://arl.devcom.army.mil/"><img src="{{ site.url }}{{site.baseurl }}/images/funders/ARL.png" width="100%" style="max-width:200px"/></a>
+</div>
+</div>
+</div>
+</div>
+
+
