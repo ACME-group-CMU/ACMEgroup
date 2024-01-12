@@ -1,3 +1,11 @@
 - name: Fred
   photo: fred.jpeg
   info: Chief Lanternfly Hunter, Master Nuzzler, Reasonably Reliable High Fiver
+
+- name: Guagua
+  photo: Guagua.jpg
+  info: Pawnonymous Micheline Inspector, Purrfect engine, Cinnamon Bagel Transformer
+
+- name: Semi
+  photo: Semi.jpg
+  info: Golden Retriever Camouflager, Squirrelologist, Stick Analyzer
