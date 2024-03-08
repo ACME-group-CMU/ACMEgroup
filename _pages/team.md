@@ -7,7 +7,7 @@ permalink: /team/
 
 ## Team
 
- **We are looking for new group members!** [Read more here.]({{ site.url }}{{ site.baseurl }}/vacancies)
+ **Interested in working with us?** [Read more here.]({{ site.url }}{{ site.baseurl }}/vacancies)
 
 
 ### PI

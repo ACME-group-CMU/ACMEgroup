@@ -7,7 +7,8 @@ permalink: /vacancies
 
 ## Group openings
 
-**We are currently looking for new group members.**
+**We are always open to the possibility of new group members.**
+
 In the ACME Group, you will work on cutting-edge computational materials science for a variety of energy applications crucial to our carbon-free future. You will build materials science and software engineering skills, and (hopefully!) strong friendships along the way. Read more about our group's values and expectations [here]({{ site.url }}{{ site.baseurl }}/values).
 
 If you are interested in working with us, please send Rachel an [email](mailto:{{site.email}}). 
