@@ -75,6 +75,17 @@
   cv:
   scholar:
 
+- name: Evan Walter Clark Spotte-Smith
+  photo: ewcss.jpeg
+  info: Carnegie Bosch Institute Postdoc Fellow
+  email: ewcspottesmith@cmu.edu
+  linkedin: 
+  researchgate: 
+  website: https://espottesmith.github.io
+  twitter: https://bsky.app/profile/ewcspottesmith.bsky.social
+  cv: https://espottesmith.github.io/files/evan_spotte-smith_cv.pdf
+  scholar: https://scholar.google.com/citations?user=-VrJAPoAAAAJ&hl=en
+
 - name: "This could be you!"
   photo: roadrunner.jpeg
   info: See <a href="/vacancies.html">openings</a> for more info
