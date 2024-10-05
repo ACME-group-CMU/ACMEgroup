@@ -93,7 +93,8 @@ Check back for more details about active projects!
 We are grateful for research support, past and present, from the following sources:
 
 <div class="light-bg">
-  <a href="https://firstsolar.com/"><img src="{{ site.url }}{{site.baseurl }}/images/funders/FSLR.png" width="100%" style="max-width:200px"/></a>  <a href="https://www.nsf.gov/"><img src="{{ site.url }}{{site.baseurl }}/images/funders/NSF.png" width="100%" style="max-width:200px"/></a>  <a href="https://www.netl.doe.gov/"><img src="{{ site.url }}{{site.baseurl }}/images/funders/NETL.png" width="100%" style="max-width:200px"/></a>  <a href="https://arl.devcom.army.mil/"><img src="{{ site.url }}{{site.baseurl }}/images/funders/ARL.png" width="100%" style="max-width:200px"/></a>
+  <a href="https://www.simonsfoundation.org/"><img src="{{ site.url }}{{site.baseurl }}/images/funders/Simons.png" width="100%" style="max-width:200px"/></a>  <a href="https://www.tri.global/"><img src="{{ site.url }}{{site.baseurl }}/images/funders/TRI.png" width="100%" style="max-width:200px"/></a>
+<a href="https://firstsolar.com/"><img src="{{ site.url }}{{site.baseurl }}/images/funders/FSLR.png" width="100%" style="max-width:120px"/></a>  <a href="https://www.nsf.gov/"><img src="{{ site.url }}{{site.baseurl }}/images/funders/NSF.png" width="100%" style="max-width:120px"/></a>  <a href="https://www.netl.doe.gov/"><img src="{{ site.url }}{{site.baseurl }}/images/funders/NETL.png" width="100%" style="max-width:200px"/></a>  <a href="https://arl.devcom.army.mil/"><img src="{{ site.url }}{{site.baseurl }}/images/funders/ARL.png" width="100%" style="max-width:200px"/></a>
 </div>
 </div>
 </div>
