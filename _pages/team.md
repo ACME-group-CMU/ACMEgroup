@@ -94,7 +94,8 @@ permalink: /team/
 <div class="col-sm-4 col-xs-12">
   <h4>{{ member.name }}</h4>
   {{member.duration}}<br>
-  <i>{{ member.info }}</i>
+  <i>{{ member.info }}</i><br>
+  now: {{member.now}}
   <ul style="overflow: hidden">
   </ul>
 </div>
