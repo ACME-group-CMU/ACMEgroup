@@ -79,8 +79,33 @@ iframe {
 
 <div class="jumbotron">
 <div class="row align-items-end">
+<div class="col-md-12 col-sm-12">
+ <h4>Research Tools/Skills</h4>
+If you join the ACME group, you will almost gain experience in some subset of these in addition to the domain knowledge specific to your project.
+
+<h6>High-Performance Computing</h6>
+Virtually all of our work relies on high-performance computing (HPC, aka "supercomputing") resources. We run jobs on various clusters, including [TRACE](https://www.cmu.edu/engineering/trace/index.html) and [Bridges-2](https://www.psc.edu/resources/bridges-2/), both of which are hosted at the [Pittsburgh Supercomputing Center](https://www.psc.edu/), located in Monroeville, just a bit east of Pittsburgh. 
+
+<h6>First-Principles Simulation</h6>
+Techniques like density functional theory (DFT) let us understand the behavior of electrons at quantum mechanical scales. We perform many types of simulations, but one particular area of specialty is DFT for charged point defects in semiconductors, which are tremendously important for understanding material behavior in electronic and optoelectronic devices including solar cells and batteries.
+
+<h6>Bayesian Parameter Estimation</h6>
+Bayesian parameter estimation (BPE) can be thought of as an alternative approach to model fitting (in contrast to, e.g., least-squares regression). Adopting this approach has many advantages; check out <a href="{{ site.url }}{{ site.baseurl }}/cv/BPE_paper.pdf" target="_blank">this paper</a> for more details. In our group, we use BPE to fit parameters of expensive models, such as drift-diffusion models for the behavior of photovoltaic devices (solar cells). This also enables us to learn much more from standard, often automatable, device-level characterization, in effect supplanting long human hours to make specialized samples for other characterization techniques.
+
+<h6>Scientific Software Development</h6>
+The ACME group is committed to open science and [FAIR data](https://www.go-fair.org/fair-principles/) practices. In computation, a critical part of this is open-source software development utilizing best practices so that others can easily validate, use, and contribute to software. We are particularly active in the [Julia Language](https://julialang.org/), helping to lead development of several [JuliaMolSim](https://juliamolsim.org/) tools.
+
+<h6>Machine Learning</h6>
+Machine learning (ML) is essentially supercharged pattern recognition. This can often be very useful in scientific computing contexts, especially when coupled with knowledge of physics in the form of governing equations, known symmetries, etc. When we have access to sufficient data, ML tools can also be a useful part of our research arsenal.
+
+</div>
+</div>
+</div>
+
+<div class="jumbotron">
+<div class="row align-items-end">
 <div class="col-md-9 col-sm-12">
- <h4>Coming soon!</h4>
+ <h4>Current Projects</h4>
 Check back for more details about active projects!
 </div>
 </div>

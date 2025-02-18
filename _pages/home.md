@@ -23,7 +23,7 @@ And finally, the ACME Corporation from Looney Tunes reminds us that while we set
 You can read more about our group's culture [here]({{ site.url }}{{ site.baseurl }}/values).
 
 ## Our Work
-We are a computational materials science group in the Materials Science Department in the Carnegie Mellon School of Engineering, led by Prof. Rachel Kurchin. We focus on simulation and data-driven methods that can accelerate development and understanding of materials for a variety of clean energy applications. Stay tuned for more details as this site gets updated!
+We are a computational materials science group in the Materials Science Department in the Carnegie Mellon School of Engineering, led by Prof. Rachel Kurchin. We focus on simulation and data-driven methods that can accelerate development and understanding of materials for a variety of clean energy applications, with a particular focus on ways we can use computation to maximize what we learn from experiments. Check out the [research page]({{ site.url }}{{ site.baseurl }}/research) for more!
 
 </div>
 <div id="newsid" class="col-sm-5 col-xs-12" >
